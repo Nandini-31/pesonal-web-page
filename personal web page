@@ -1,0 +1,30 @@
+<html>
+    <style>
+        head{
+            allign-text:centre;
+        }
+        section {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/GoldenMedows.jpg/800px-GoldenMedows.jpg");
+    background-size:100% 100%;
+        }
+        </style>
+    
+    
+    <SECTION>
+        <head style="color:red;"><strong>PERSONAL-WEBSITE</allign></strong></head>
+
+
+        <div>
+            <h4 style="display:inline;">Name:</h4><p style="display:inline;"><em>Nandini</em></p>
+            <h4 >Date of Birth:</h4><p style="display:inline;">31/12/2002</p>
+        
+        <h4 style="color:black";>Hobbies:</h4>
+        <ul>
+            <li>watching series</li>
+            <li>sleeping</li>
+          </ul>
+        <h4>Strengths:</h4>
+        <p>Family</p>
+</div>
+    </SECTION>
+</html>
